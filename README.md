@@ -110,22 +110,22 @@ MAVIS BOT operates with APIs that require access to sensitive data (email, messa
 ## 📸 Screenshots
 
 ## UI
-<img width="964" height="741" alt="image" src="https://github.com/user-attachments/assets/7ee40a4f-ae5d-4c38-beac-53a47e59a7e2" />
+<img width="564" height="441" alt="image" src="https://github.com/user-attachments/assets/7ee40a4f-ae5d-4c38-beac-53a47e59a7e2" />
 
 ## Sending Mail
-<img width="932" height="777" alt="image" src="https://github.com/user-attachments/assets/f2f44f4f-3eb9-4ab1-8945-d55b5ea82b76" />
+<img width="532" height="477" alt="image" src="https://github.com/user-attachments/assets/f2f44f4f-3eb9-4ab1-8945-d55b5ea82b76" />
 
 ## Generating Latest News
-<img width="931" height="882" alt="image" src="https://github.com/user-attachments/assets/658f8fb5-4b8d-43a4-99bc-d93b5383c409" />
+<img width="531" height="582" alt="image" src="https://github.com/user-attachments/assets/658f8fb5-4b8d-43a4-99bc-d93b5383c409" />
 
 ## Summarize the mail
-<img width="914" height="762" alt="image" src="https://github.com/user-attachments/assets/1795ffe0-3d31-40c3-8d36-aa4264c92509" />
+<img width="514" height="462" alt="image" src="https://github.com/user-attachments/assets/1795ffe0-3d31-40c3-8d36-aa4264c92509" />
 
 ## Sending SMS
-<img width="936" height="774" alt="image" src="https://github.com/user-attachments/assets/f7d19027-be46-449a-afdd-9d70e0ba3a63" />
+<img width="536" height="474" alt="image" src="https://github.com/user-attachments/assets/f7d19027-be46-449a-afdd-9d70e0ba3a63" />
 
 ## MultiTasking
-<img width="944" height="686" alt="image" src="https://github.com/user-attachments/assets/2f5848db-bb08-4260-8fa1-28f2b1cc37dc" />
+<img width=544" height="386" alt="image" src="https://github.com/user-attachments/assets/2f5848db-bb08-4260-8fa1-28f2b1cc37dc" />
 
 ---
 
