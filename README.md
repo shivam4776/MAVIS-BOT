@@ -158,12 +158,6 @@ Pull requests are welcome! If you have feature suggestions, bug reports, or impr
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🔗 Connect
 
 Built by Shivam Kashyap(https://github.com/shivam4776) with ❤️
