@@ -125,7 +125,7 @@ MAVIS BOT operates with APIs that require access to sensitive data (email, messa
 <img width="536" height="474" alt="image" src="https://github.com/user-attachments/assets/f7d19027-be46-449a-afdd-9d70e0ba3a63" />
 
 ## MultiTasking
-<img width=544" height="386" alt="image" src="https://github.com/user-attachments/assets/2f5848db-bb08-4260-8fa1-28f2b1cc37dc" />
+<img width="544" height="386" alt="image" src="https://github.com/user-attachments/assets/2f5848db-bb08-4260-8fa1-28f2b1cc37dc" />
 
 ---
 
